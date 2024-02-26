@@ -1,0 +1,21 @@
+Find Answer for each Question in Asked and give the result in key value pair and the answer should be in respected format
+Total Amount:What is the Total Amount? Format:please don't provide any symbol,give only the number.
+Practice: who is the Schneider Digital Practice? Format:Only the Practice name.
+SOW Start Date: What is the start date? Format:Only the date in dd-mm-yyyy format.
+SOW End Date:SOW is valid untill? Format:Only the date in dd-mm-yyyy format.
+SOW:What is the SOW Name? Format: Only the SOW Name.
+Buyer:Who is the buyer in msa aggreement? Format: Only the Buyer Name.
+Supplier:who is the Supplier in msa aggrement? Format: Only the Supplier Name.
+Agreement:Name of the Agreement Format: Only the Agreement Name
+Geo:Country Name? Format: Only the county Name
+Contract Type: what is the contract type? Format: Only the contract type
+MSA Date: msa agreement is dated on? Format:Only the date in dd-mm-yyyy format
+Date Difference: Difference between Start date and end date Format: only the number  in dates
+Expiring in 60 Days: if the Date Difference is less then 60 give result as TRUE or else give false
+Give only this Answers(Practice, SOW End Date, SOW, Buyer, Supplier,Agreement,Geo,Total Amount,Contract Type,MSA Date,SOW Start Date, Expiring in 60 Days,Date Difference)
+
+
+
+But key things – license valid till, valid for that geo, payment terms, adv to be paid, how long is the contract for etc.
+
+Fetch answers for the following questions and give the response in a table format - Till what date License is valid? what is the geo location for the license? What are the payment terms? What is the advance to be paid? For how long contract valid? What is the effective date?
