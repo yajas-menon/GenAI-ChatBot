@@ -7,7 +7,7 @@ import os
 import pandas as pd
 import shutil
 import time
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'ADD_YOUR_API_KEY_HERE'
 #http://127.0.0.1:7860
 def construct_index(directory_path):
     max_input_size = 4096
